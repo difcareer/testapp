@@ -1,1 +1,1 @@
-test
+this is a template app for developing app in AOSP.
